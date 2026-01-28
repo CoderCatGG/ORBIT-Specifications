@@ -1,4 +1,4 @@
-[] Variable assignment / decleration
-[] Function definition
-[] While loops
-[] Print / Debug
+- [] Variable assignment / decleration
+- [] Function definition
+- [] While loops
+- [] Print / Debug

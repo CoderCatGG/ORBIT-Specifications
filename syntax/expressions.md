@@ -1,21 +1,21 @@
 # Arithmetic
 
-[] Plus
-[] Minus
-[] Multiplication
-[] Division
-[] Remainder
+- [] Plus
+- [] Minus
+- [] Multiplication
+- [] Division
+- [] Remainder
 
 # Logic
 
-[] And
-[] Or
-[] Xor
-[] Not
+- [] And
+- [] Or
+- [] Xor
+- [] Not
 
 # Control Flow
 
-[] If / Else
-[] Loop
-[] Function call
-[] Block expressions (`{ ... }`)
+- [] If / Else
+- [] Loop
+- [] Function call
+- [] Block expressions (`{ ... }`)
