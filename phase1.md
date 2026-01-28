@@ -1,0 +1,9 @@
+[] Interpreting
+[] Basic debugging
+[] Entry function
+[] Strict typing & Type checking
+[] Basic Arithmetic and Logical Operations
+[] If expressions
+[] Looping
+[] While loops
+[] Functions
